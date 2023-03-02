@@ -21,3 +21,16 @@
   <img align="center" alt="Bruno-Python" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Bruno-Python" height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />             
 </div>
+
+  ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/bruno-barcelos-b319a422b/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
+    <a href="https://www.linkedin.com/in/bruno-barcelos-b319a422b/" target="_blank">
+      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    
+   
+  
+  </div>
